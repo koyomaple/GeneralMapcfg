@@ -1,0 +1,92 @@
+"Models"
+{
+	"props\cs_assault\moneypallet_washerdryer"
+	{
+		"en"		"货物箱"
+		"fakemodelfix"		"1"
+	}
+	"props\cs_assault\box_stack1"
+	{
+		"en"		"货物箱子2"
+	}
+	"props\cs_militia\van"
+	{
+		"en"		"车"
+	}
+	"props\gg_vietnam\ammobox_stack"
+	{
+		"en"		"弹药箱"
+	}
+	"props\cs_office\shelves_metal1"
+	{
+		"en"		"物品架"
+	}
+	"props\cs_italy\market_table01"
+	{
+		"en"		"椅子"
+	}
+	"props_junk\garbage256_composite002b"
+	{
+		"en"		"垃圾"
+	}
+	"props_equipment\diesel_pump"
+	{
+		"en"		"排水装置"
+	}
+	"props_c17\oildrum001"
+	{
+		"en"		"油桶"
+	}
+	"props_exteriors\guardrail512"
+	{
+		"en"		"拦路杆"
+	}
+	"props_vehicles\airport_catering_truck"
+	{
+		"en"		"货车"
+	}
+	"props\de_vertigo\pallet_barrels_water01"
+	{
+		"en"		"爆炸筒"
+	}
+	"props_urban\plastic_chair001"
+	{
+		"en"		"椅子"
+	}
+	"props_equipment\cargo_container01"
+	{
+		"en"		"集装箱"
+	}
+	"props\de_vertigo\construction_wood_2x4_upper_whole_01"
+	{
+		"en"		"木材"
+	}
+	"props_junk\dumpster_2"
+	{
+		"en"		"垃圾桶"
+	}
+	"props_office\desk_01"
+	{
+		"en"		"电脑桌"
+	}
+	"props\cs_office\chair_office"
+	{
+		"en"		"电脑椅子"
+	}
+	"props\cs_office\vending_machine_dark"
+	{
+		"en"		"饮料机"
+	}
+	"props_interiors\sofa01"
+	{
+		"en"		"沙发"
+	}
+	"props\cs_assault\forklift_new"
+	{
+		"en"		"X车"
+	}
+	"props_vehicles\humvee"
+	{
+		"en"		"装甲车"
+	}
+}
