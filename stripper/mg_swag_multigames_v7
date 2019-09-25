@@ -1,0 +1,61 @@
+modify:
+{
+      match:
+          {
+              "hammerid" "487641"
+                "classname" "logic_auto"
+          }
+          insert:
+          {
+              "OnMapSpawn" "cmdCommandsm_cvar sv_infinite_ammo 00-1"
+              "OnMapSpawn" "cmdCommandsm_cvar mp_death_drop_gun 10-1"
+          }
+}
+
+modify:
+{
+      match:
+          {
+              "targetname" "spawn_button7"
+                "hammerid" "69953"
+          }
+          insert:
+          {
+             "OnPressed" "cmdCommandsm_cvar sv_infinite_ammo 10-1"
+             "OnPressed" "cmdCommandsm_cvar mp_death_drop_gun 00-1"
+          }
+}
+
+modify:
+{
+      match:
+          {
+              "targetname" "range_break3"
+                "hammerid" "485170"
+          }
+          delete:
+          {
+		         "OnBreak" "range_tcounterAdd10-1"
+          }
+          insert:
+          {
+             "OnBreak" "range_tcounterAdd40-1"
+          }
+}
+
+modify:
+{
+      match:
+          {
+              "targetname" "range_break10"
+                "hammerid" "485249"
+          }
+          delete:
+          {
+		         "OnBreak" "range_ctcounter1Add10-1"
+          }
+          insert:
+          {
+             "OnBreak" "range_ctcounter1Add40-1"
+          }
+}
