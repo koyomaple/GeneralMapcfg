@@ -139,5 +139,6 @@ add:
 add:
 {
      "origin" "-7248.42 -6734 -437"
+     "angles" "0 0 0"
      "classname" "weapon_bumpmine"
 }
