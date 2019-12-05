@@ -19,9 +19,10 @@ ZE服务器请点这里 https://github.com/MapTextLang/MapTextLang
 
 ## 目录说明
 ---
-+ mapcfg      ->地图参数
-+ mappool     ->地图池控制系统
-+ maptext     ->地图翻译
++ mapcfg      ->地图参数         【已支持自动同步】
++ mappool     ->地图池控制系统   【已支持自动同步】
++ maptext     ->地图翻译         【已支持自动同步】
++ prophurt    ->躲猫猫地图道具   【已支持自动同步】
 
 ## 游戏中自动同步方法
 ---
