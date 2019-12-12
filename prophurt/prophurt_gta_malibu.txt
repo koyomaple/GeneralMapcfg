@@ -156,6 +156,7 @@
 	{
 		"en"		"灭火器"
 		"special"		"1"
+		"speedlimit" 	"1.0"
 	}
 	"chicken\chicken"
 	{
