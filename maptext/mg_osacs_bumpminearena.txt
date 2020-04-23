@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Bumpmine Arena! Part of Osacs Multigames."
+	{
+		"chi"		"** **"
+	}
+}

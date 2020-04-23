@@ -6,7 +6,7 @@
 	}
 	"Iceskate"
 	{
-		"chi"		"** **"
+		"chi"		"**滑冰**"
 	}
 	"Song - Itll Be Okay : SMLE ft. Helen Tess"
 	{
@@ -14,7 +14,7 @@
 	}
 	"Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷**"
 	}
 	"Song - Ed Sheeran - I See Fire (Kygo Remix)"
 	{
@@ -26,11 +26,11 @@
 	}
 	"Low Gravity Negev War!"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力大菠萝**"
 	}
 	"Barrel Box Selected"
 	{
-		"chi"		"** **"
+		"chi"		"**拆箱子(双枪)**"
 	}
 	"Song - Embers : Feint"
 	{
@@ -38,7 +38,7 @@
 	}
 	"Shotguns"
 	{
-		"chi"		"** **"
+		"chi"		"**喷子**"
 	}
 	"Song - Closer : Lazlo"
 	{
@@ -54,7 +54,7 @@
 	}
 	"Bhop"
 	{
-		"chi"		"** **"
+		"chi"		"**连跳**"
 	}
 	"Song - ROZES - Fragile (AVNU Remix)"
 	{

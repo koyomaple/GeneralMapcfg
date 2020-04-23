@@ -16,7 +16,7 @@
 	{
 		"chi"		"** 攀爬**"
 	}
-	"@[Map] 3 MINUTES REMAINING"
+	"@[Map] 3 minutes remaining"
 	{
 		"chi"		"** 剩余3分钟**"
 	}
@@ -62,19 +62,19 @@
 	}
 	"@[Map] Refire Time - 3 seconds"
 	{
-		"chi"		"** 3秒后重启**"
+		"chi"		"**掉落速度3s块**"
 	}
 	"@[Map] Refire Time - 2 seconds"
 	{
-		"chi"		"** 2秒后重启**"
+		"chi"		"**掉落速度2s块**"
 	}
 	"@[Map] Refire Time -  1 second"
 	{
-		"chi"		"** 1秒后重启**"
+		"chi"		"**掉落速度1s块**"
 	}
 	"@[Map] Refire Time -  0.5 seconds"
 	{
-		"chi"		"** 0.5秒后重启**"
+		"chi"		"**掉落速度0.5s块**"
 	}
 	"@[Map] Arena fight"
 	{
@@ -103,7 +103,7 @@
 	"@[MAP] FOOTBALL"
 	{
 		"chi"		"** 足球**"
-		"Command" "sm_sethealth @all 1"
+		"command"		"sm_sethealth @all 1"
 	}
 	"@[Map] 5 MINUTES REMAINING"
 	{
@@ -117,7 +117,7 @@
 	{
 		"chi"		"** 剩余4分钟**"
 	}
-	"@[Map] 2 MINUTES REMAINING"
+	"@[Map] 2 minutes remaining"
 	{
 		"chi"		"** 剩余2分钟**"
 	}
@@ -284,5 +284,9 @@
 	"@[Map] Winners Get 10 Points"
 	{
 		"chi"		"**胜者获得10点 **"
+	}
+	"@[地图提示] 当有一方足球有3个球进洞时即为胜利。"
+	{
+		"chi"		"** **"
 	}
 }

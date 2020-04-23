@@ -36,4 +36,8 @@
 	{
 		"chi"		"**twitch.tvb0aty**"
 	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
 }

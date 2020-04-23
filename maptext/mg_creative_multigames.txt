@@ -126,7 +126,7 @@
 	}
 	"*** The mode selected: Comba ***"
 	{
-		"chi"		"** 模式选择：搏斗**"
+		"chi"		"****模式选择：跳绳****"
 	}
 	"*** Ganado | Win -  m249 ***"
 	{

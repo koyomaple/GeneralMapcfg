@@ -6,15 +6,15 @@
 	}
 	">> HalfRide <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>半侧push<<<"
 	}
 	">> Free Fall <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>自由落体<<<"
 	}
 	"[Raphi] Times up."
 	{
-		"chi"		"** **"
+		"chi"		"**时间到（到底部变一滴血）**"
 	}
 	">> AWP <<"
 	{
@@ -22,15 +22,15 @@
 	}
 	">> Knife Arena <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>刀战<<<"
 	}
 	">> Smoke <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>烟雾弹大战<<<"
 	}
 	">> Face 2 Face <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>亲嘴滑行<<<"
 	}
 	">> VolleyBall <<"
 	{
@@ -38,11 +38,11 @@
 	}
 	">> Grenade <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>手雷<<<"
 	}
 	">> Wagon <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>撞火车刀战<<<"
 	}
 	">> You have 50 sec to get more speed <<"
 	{
@@ -50,7 +50,7 @@
 	}
 	">> Long Jump <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>长跳<<<"
 	}
 	">> The best will win in 30 sec <<"
 	{
@@ -82,7 +82,7 @@
 	}
 	">> Football <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>足球<<<"
 	}
 	">> Balance <<"
 	{
@@ -90,7 +90,7 @@
 	}
 	">> BHOP <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>连跳<<<"
 	}
 	">> GG WP<<"
 	{
@@ -98,11 +98,11 @@
 	}
 	">> Slide <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>滑行<<<"
 	}
 	"GOOOOOAAAAAAL!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**Ruaaaaaaaaaaaaaaaaaaaaaaaaa！**"
 	}
 	"[Raphi] Times up !!"
 	{

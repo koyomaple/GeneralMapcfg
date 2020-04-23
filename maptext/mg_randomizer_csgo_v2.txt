@@ -26,7 +26,7 @@
 	}
 	"<<<ROUND = Iceskate!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**滑冰**<<<"
 	}
 	"AFK Spawn killer active in 10 seconds!"
 	{
@@ -38,19 +38,19 @@
 	}
 	"<<<ROUND = HE Grenade round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**手雷**<<<"
 	}
 	"<<<ROUND = High speed round! + 300hp>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**高速移动+300血A4**<<<"
 	}
 	"<<<ROUND = Boom Headshot!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**爆头**<<<"
 	}
 	"<<<ROUND = Smoke War Round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**烟雾大战**<<<"
 	}
 	"<<<ROUND = Jumper round!>>>"
 	{
@@ -106,7 +106,7 @@
 	}
 	"<<<ROUND = Shank you in the back blad!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**背刺**<<<"
 	}
 	"Spawn kill active in 10 seconds!"
 	{
@@ -122,7 +122,7 @@
 	}
 	"<<<ROUND = Musical Holes Round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**音乐之洞**<<<"
 	}
 	"1 of 2 unseen maps from mg_Pauls_Multigames"
 	{
@@ -130,19 +130,19 @@
 	}
 	"Knife it out!"
 	{
-		"chi"		"** **"
+		"chi"		"**开启刀伤**"
 	}
 	"<<<ROUND = Scoutsknives round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**鸟狙**<<<"
 	}
 	"<<<ROUND = Shotgun Round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**喷子**<<<"
 	}
 	"<<<ROUND = Moving Doors Round!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>升降板刀战<<<"
 	}
 	"You have 30 seconds to knife each other!"
 	{
@@ -154,13 +154,21 @@
 	}
 	"<<<ROUND = Breakwall>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>**破墙**<<<"
 	}
 	"Health Regen has been turned off!"
 	{
 		"chi"		"** **"
 	}
 	"You have taken too long! Lights on!"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"Knife!!!"
 	{
 		"chi"		"** **"
 	}

@@ -20,4 +20,12 @@
 	{
 		"chi"		"** 10秒后开始。别掉入水中:D**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
 }

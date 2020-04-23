@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"@[Steve] STOP!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CHECKPOINT ACTIVED"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Boss fight 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2 Minutes"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] One minute"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Elevator start in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Steve: Soon it will break right side arena"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Toxic cubes broken"
+	{
+		"chi"		"** **"
+	}
+	"Steve: Soon it will break left side arena"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Health cubes broken"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Elevator start in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] VERY WELL!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] People lost"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"62985"
+	}
+}

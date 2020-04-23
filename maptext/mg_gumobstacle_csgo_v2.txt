@@ -24,4 +24,20 @@
 	{
 		"chi"		"** **"
 	}
+	"@[Map] Player finish in the map"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] OMG!!! YOU GOOOD!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map by GumPum"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map porting by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
 }

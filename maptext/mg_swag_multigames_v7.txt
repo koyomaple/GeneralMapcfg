@@ -264,4 +264,16 @@
 	{
 		"chi"		"** **"
 	}
+	"@[MAP] COUNTER TERRORISTS WIN!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] TERRORISTS WIN!"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
 }

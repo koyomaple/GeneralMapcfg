@@ -2,82 +2,269 @@
 {
 	"Map Ported by Shawn for GiClan"
 	{
-		"chi"		"**地图由Shawn for GiClan**"制作 翻译：拉姆 "
+		"chi"		"**地图由Shawn for GiClan**"
+		"制作"		"翻译：拉姆"
+		"
+	}
+	"		"You"
+		"have"		"45"
+		"Seconds"		"to"
+		"Buy!"		"
+	{
+		"
+		"chi"		"		"
+		"**你有四十五秒时间来购买武器"		"（F4快捷购买上一次装备）**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Cemetery!"		"
+	{
+		"
+		"chi"		"		"
+		"**目的**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Submarine!"
+		"
+	{
+		"		"chi"
+		"		"		"**水下**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Sewers!"		"
+	{
+		"
+		"chi"		"		"
+		"**下水道**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Dev!"
+		"
+	{
+		"		"chi"
+		"		"		"**DEV**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Fortress!"		"
+	{
+		"
+		"chi"		"		"
+		"**要塞**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Freezer!"
+		"
+	{
+		"		"chi"
+		"		"		"**冰屋**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Glass!"		"
+	{
+		"
+		"chi"		"		"
+		"**玻璃**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Highway!"
+		"
+	{
+		"		"chi"
+		"		"		"**公路**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Rooftop!"		"
+	{
+		"
+		"chi"		"		"
+		"**屋顶"		"**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Maze!"		"
+	{
+		"
+		"chi"		"		"
+		"**迷宫"		"**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Speed"		"circle!"
+		"
+	{
+		"		"chi"
+		"		"		"**小型密室赛跑"
+		"**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Sparta!"
+		"
+	{
+		"		"chi"
+		"		"		"**斯巴达"
+		"**"		"
+	}
+	"
+		"You"		"have"
+		"chosen:"		"Eye"
+		"rape!"		"
+	{
+		"
+		"chi"		"		"
+		"**基佬小屋"		"**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Hill!"		"
+	{
+		"
+		"chi"		"		"
+		"**攀爬"		"**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Nether!"		"
+	{
+		"
+		"chi"		"		"
+		"**下方"		"**"
+		"
+	}
+	"		"You"
+		"have"		"chosen:"
+		"Pool!"		"
+	{
+		"
+		"chi"		"		"
+		"**泳池"		"**"
+		"
+	}
+	"		"Maze"
+		"will"		"be"
+		"disabled"		"in"
+		"5"		"seconds!"
+		"
+	{
+		"		"chi"
+		"		"		"**迷宫墙壁将在5秒后消失"
+		"**"		"
+	}
+	"
+		"The"		"server"
+		"is"		"about"
+		"to"		"close"
+		"The"		"update"
+		",Please"		"update"
+		"your"		"game"
+		"
+	{
+		"		"chi"
+		"		"		"**服务器即将关闭更新，请更新您的游戏"
+		"**"		"
+	}
+}
+"
 	}
 	"You have 45 Seconds to Buy!"
 	{
-		"chi"		"**你有四十五秒时间来购买武器 （F4快捷购买上一次装备）**"
-	}
-	"You have chosen: Cemetery!"
-	{
-		"chi"		"**目的**"
-	}
-	"You have chosen: Submarine!"
-	{
-		"chi"		"**水下**"
-	}
-	"You have chosen: Sewers!"
-	{
-		"chi"		"**下水道**"
-	}
-	"You have chosen: Dev!"
-	{
-		"chi"		"**DEV**"
-	}
-	"You have chosen: Fortress!"
-	{
-		"chi"		"**要塞**"
+		"chi"		"** **"
 	}
 	"You have chosen: Freezer!"
 	{
-		"chi"		"**冰屋**"
-	}
-	"You have chosen: Glass!"
-	{
-		"chi"		"**玻璃**"
-	}
-	"You have chosen: Highway!"
-	{
-		"chi"		"**公路**"
-	}
-	"You have chosen: Rooftop!"
-	{
-		"chi"		"**屋顶 **"
-	}
-	"You have chosen: Maze!"
-	{
-		"chi"		"**迷宫 **"
+		"chi"		"** **"
 	}
 	"You have chosen: Speed circle!"
 	{
-		"chi"		"**小型密室赛跑 **"
+		"chi"		"** **"
 	}
-	"You have chosen: Sparta!"
+	"You have chosen: Fortress!"
 	{
-		"chi"		"**斯巴达 **"
+		"chi"		"** **"
 	}
-	"You have chosen: Eye rape!"
+	"You have chosen: Highway!"
 	{
-		"chi"		"**基佬小屋 **"
+		"chi"		"** **"
 	}
-	"You have chosen: Hill!"
+	"You have chosen: Maze!"
 	{
-		"chi"		"**攀爬 **"
-	}
-	"You have chosen: Nether!"
-	{
-		"chi"		"**下方 **"
-	}
-	"You have chosen: Pool!"
-	{
-		"chi"		"**泳池 **"
+		"chi"		"** **"
 	}
 	"Maze will be disabled in 5 seconds!"
 	{
-		"chi"		"**迷宫墙壁将在5秒后消失 **"
+		"chi"		"** **"
 	}
-	"The server is about to close the update ,Please update your game"
+	"You have chosen: Cemetery!"
 	{
-		"chi"		"**服务器即将关闭更新，请更新您的游戏 **"
+		"chi"		"** **"
+	}
+	"You have chosen: Nether!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Pool!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Dev!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Sewers!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Eye rape!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Hill!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Submarine!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Rooftop!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Sparta!"
+	{
+		"chi"		"** **"
+	}
+	"You have chosen: Glass!"
+	{
+		"chi"		"** **"
+	}
+	"已经有玩家进入选图区域，20秒后不选择地图将会随机选择一张地图。"
+	{
+		"chi"		"** **"
+	}
+	"购买剩余时间倒计时10秒"
+	{
+		"chi"		"** **"
+	}
+	"购买时间倒计时10秒"
+	{
+		"chi"		"** **"
 	}
 }
