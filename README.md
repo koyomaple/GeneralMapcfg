@@ -73,6 +73,6 @@ ZE服务器请点这里 https://github.com/MapTextLang/MapTextLang
 test for web hook
 #push trigger update p3
 triggercleanup 最后维护
-2021年2月3日11:58:22
+2021年2月3日11:58:23
 #########triggercleanup1
 #1
