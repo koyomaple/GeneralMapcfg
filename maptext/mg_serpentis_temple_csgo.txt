@@ -1,6 +1,18 @@
 "Console_T"
 {
+	"地图修复koyostripper日期3.13"
+	{
+		"chi"		"** **"
+	}
 	"<<< THE TEMPLE ENTRANCE IS NOW OPEN >>>"
+	{
+		"chi"		"** **"
+	}
+	"毒气室禁用手电（通过后恢复）"
+	{
+		"chi"		"** **"
+	}
+	"手电筒恢复"
 	{
 		"chi"		"** **"
 	}
@@ -8,31 +20,27 @@
 	{
 		"chi"		"** **"
 	}
+	"1"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"5"
+	{
+		"chi"		"** **"
+	}
 	"<<< The Room of Sacrifices has been satisfied >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The first crystal has been found >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Seven remain hidden >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< FINDING A CRYSTAL ENABLED THE ALTAR! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The Wheels of Water have been crossed >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The second crystal speaks of secrets >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Six remain silent >>>"
 	{
 		"chi"		"** **"
 	}
@@ -40,47 +48,7 @@
 	{
 		"chi"		"** **"
 	}
-	"<<< The third crystal awakes to the world >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Five remain dreaming >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The Sewers Secret has been found >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The fourth crystal glows with power >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Four remain in shadows >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<<  The Elevating Spirit has been lifted >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The fifth crystal pulses with energy >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Three remain forgotten >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The Chains of Serpentis have been unraveled >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The sixth crystal satiates its hunger >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Two remain hollow >>>"
+	"<<< The Rooms of Deception have been solved >>>"
 	{
 		"chi"		"** **"
 	}
@@ -88,31 +56,23 @@
 	{
 		"chi"		"** **"
 	}
-	"<<< The seventh crystal becomes a vessel >>>"
+	"<<< The Sewers Secret has been found >>>"
 	{
 		"chi"		"** **"
 	}
-	"<<< She only needs one more >>>"
+	"<<<  The Elevating Spirit has been lifted >>>"
 	{
 		"chi"		"** **"
 	}
-	"<<< The Rooms of Deception have been solved >>>"
+	"<<< The Wheels of Water have been crossed >>>"
 	{
 		"chi"		"** **"
 	}
-	"<<< The last crystal has spoken! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< The secret shall be revealed! >>>"
+	"<<< The Chains of Serpentis have been unraveled >>>"
 	{
 		"chi"		"** **"
 	}
 	"<<< ALL CRYSTALS HAVE BEEN FOUND! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< GRAB YOUR WEAPONS AND GET READY >>>"
 	{
 		"chi"		"** **"
 	}
@@ -132,16 +92,72 @@
 	{
 		"chi"		"** **"
 	}
-	"<<< Thanks for playing! >>>"
+	"地图：-美杜莎神庙- 作者：-luffaren&kaemon- stripper修复：koyo 版本日期：202145"
 	{
 		"chi"		"** **"
 	}
-	"<<< Map made by Kaemon & Luffaren >>>"
+	"<<< 神殿的大门正缓缓打开... >>>"
 	{
 		"chi"		"** **"
 	}
-	"sync_version"
+	"<<< 通向神殿中心的捷径已开放.. >>>"
 	{
-		"syncvalue"		"44474"
+		"chi"		"** **"
+	}
+	"<<< 火山关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 献祭关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 鬼打墙关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 大迷宫关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 下水道关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<  升降轮盘关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 锁链关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 水车关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 祝贺你们！ >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 你们击败了美杜莎并且征服了这座巨蛇神殿！ >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 你们是真正的传奇英雄! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 感谢你们游玩本地图! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 地图作者： Kaemon(卡萌) & Luffaren(卤粉) >>>"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
 	}
 }

@@ -20,4 +20,12 @@
 	{
 		"chi"		"** **"
 	}
+	"sync_version"
+	{
+		"syncvalue"		"67005"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
 }

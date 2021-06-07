@@ -264,4 +264,8 @@
 	{
 		"chi"		"** **"
 	}
+	"**A player finished**"
+	{
+		"chi"		"** **"
+	}
 }

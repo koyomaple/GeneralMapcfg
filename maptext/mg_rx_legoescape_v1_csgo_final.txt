@@ -40,4 +40,8 @@
 	{
 		"chi"		"** **"
 	}
+	"@ WELL DONE!!! YOU JUST ESCAPED"
+	{
+		"chi"		"** **"
+	}
 }

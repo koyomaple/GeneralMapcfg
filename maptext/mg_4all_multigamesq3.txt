@@ -184,4 +184,16 @@
 	{
 		"chi"		"** **"
 	}
+	"CT hero is... NOBODY called TOO-LATE-NOOB"
+	{
+		"chi"		"** **"
+	}
+	"TIMELEFT: 30sec"
+	{
+		"chi"		"** **"
+	}
+	"THE END !"
+	{
+		"chi"		"** **"
+	}
 }

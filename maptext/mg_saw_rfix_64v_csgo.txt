@@ -48,4 +48,8 @@
 	{
 		"chi"		"** 地图网址：Tweakgaming.com**"
 	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
 }
